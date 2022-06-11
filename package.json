@@ -20,9 +20,6 @@
     "name": "Henrique de Castilhos",
     "url": "https://github.com/castilh0s"
   },
-  "files": [
-    "lib/**/*"
-  ],
   "main": "lib/lastfm.js",
   "types": "lib/lastfm.d.ts",
   "repository": {
